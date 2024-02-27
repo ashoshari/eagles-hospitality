@@ -1,0 +1,1 @@
+import{_ as o}from"./app-pWjC7eU3.js";import{o as t,e as r,f as s,r as a}from"./vendor--mdjztg5.js";const n={},c={class:"min-h-screen bg-gray-100 marginTopHalf"};function i(e,l){return t(),r("main",null,[s("section",c,[a(e.$slots,"default")])])}const m=o(n,[["render",i]]);export{m as A};
